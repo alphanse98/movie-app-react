@@ -25,12 +25,15 @@ function App() {
   useEffect(() => {
     let fun = async () => {
       let res = await axios.get(api);
+      console.log(res);
       setdata(res.data.results);
     };
     fun();
   }, [api]);
 
+
   console.log(data);
+  
 
   return (
     <div className="App">
