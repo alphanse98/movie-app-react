@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//alphanse98.github.io/movie-app-react/static/css/main.6e9c1c87.css",
+    "main.js": "/http//alphanse98.github.io/movie-app-react/static/js/main.a304fa1c.js",
+    "index.html": "/http//alphanse98.github.io/movie-app-react/index.html",
+    "main.6e9c1c87.css.map": "/http//alphanse98.github.io/movie-app-react/static/css/main.6e9c1c87.css.map",
+    "main.a304fa1c.js.map": "/http//alphanse98.github.io/movie-app-react/static/js/main.a304fa1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e9c1c87.css",
+    "static/js/main.a304fa1c.js"
+  ]
+}
